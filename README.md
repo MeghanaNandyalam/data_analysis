@@ -8,6 +8,8 @@ Each company is given a ranking according to these ratios, the sum of the rankin
 
 for more info : https://www.quant-investing.com/strategies/erp5-and-momentum-investment-strategy
 
+data is available here: https://drive.google.com/drive/folders/1GLZEcwAm3-GZjnTrQq0726U8CkOxo8tQ?usp=sharing
+
 
 
 
